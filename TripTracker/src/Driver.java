@@ -69,7 +69,7 @@ public class Driver {
     	mainFrame = new JFrame();
     	mainFrame.setSize(1200, 700);
     	mainFrame.setLayout(new BorderLayout());
-    	mainFrame.setTitle("Project 5 - Enos Kakwambi");
+    	mainFrame.setTitle("TripTracker");
     	
     	// Set up Panel for input selections
         topPanel.setLayout(new FlowLayout());
